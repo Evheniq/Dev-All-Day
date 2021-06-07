@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Dev-All-Day
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Kaggle.
 - 📫 How to reach me @Evheniq (Telegram)
 
 <!---
